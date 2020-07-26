@@ -1,2 +1,2 @@
-This was Master.
-Now its SB-1.
+This is Master.
+Updated Master.
