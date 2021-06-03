@@ -1,1 +1,3 @@
 To check merge when master is updated and feature need to be updated before proceeding further.
+
+reset
