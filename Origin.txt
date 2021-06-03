@@ -1,4 +1,2 @@
 This was Master.
 Now in SB2.
-
-reset
