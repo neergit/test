@@ -1,6 +1,2 @@
 This is Master.
 Updated Master.
-
-- reset/revert file changes.
-
-reset again
